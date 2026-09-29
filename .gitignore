@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.commandcode/
+data/*.csv
+!data/.gitkeep
+Updated_Predictive_Maintenance_Intelligence_Agent_Architecture.pdf
+!models/predictive_maintenance_pipeline.pkl
+!models/pipeline_metadata.json
